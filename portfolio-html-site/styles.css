@@ -107,10 +107,14 @@ html {
 }
 
 .top-bar{
+    position: sticky;
+    top: 0px;
     display: flex;
     justify-content: space-between;
     padding: 38px;
     font-family: Arial;
+    background-color: rgb(26, 26, 26);  
+
 }
 
 .top-bar > .left-side > div{
