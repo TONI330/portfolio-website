@@ -1,0 +1,3 @@
+Top bar: Home, Curiculum vitae, Portfolio, ..., about Teun Leenders (about in grey but becomes white when hovering)
+
+about scrolls down to home, about section 
